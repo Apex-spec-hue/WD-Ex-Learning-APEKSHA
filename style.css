@@ -38,7 +38,7 @@ body {
   color: var(--white);
   background-image:
     linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.65)),
-    url("photos/image.png");
+    url("image.png");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
